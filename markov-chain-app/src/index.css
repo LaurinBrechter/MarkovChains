@@ -1,0 +1,14 @@
+html,
+body,
+#root,
+.app
+.content {
+  height: 100%;
+  width: 100%;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.app {
+  display: flex;
+  position: relative;
+}
